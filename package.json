@@ -1,5 +1,6 @@
 {
   "name": "token-swap-ui",
+  "homepage": "http://semius.github.io/solanadextest",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
